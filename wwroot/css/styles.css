@@ -1,0 +1,8 @@
+.validation-summary-errors {
+    color: crimson;
+}
+
+.imput-validation-errors {
+    color: crimson;
+    border: 1px solid;
+}
